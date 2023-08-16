@@ -1,0 +1,10 @@
+######################
+# Eclipse
+######################
+
+.project
+.metadata
+.classpath
+.settings/
+build/
+/bin/
